@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
-    "moduleResolution": "node"
-  }
+  "tieu_de": "Đếm ngược đến kì thi tốt nghiệp THPT Quốc Gia 2025",
+  "ngay_thi": "27/06/2025",
+  "thoi_gian_con_lai": "365 ngày"
 }

@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// https://vitejs.dev/config/
+// https://www.facebook.com/l3RuanHuaiLing25072006/
 export default defineConfig({
   plugins: [react()],
   test: {
